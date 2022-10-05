@@ -38,6 +38,8 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		///
 
 
+		//コミットするとき何が変更されたのか具体的にコメントすること
+
 		Novice::DrawEllipse(400, 300, 40, 40, 0.0f, WHITE, kFillModeSolid);
 
 		///
