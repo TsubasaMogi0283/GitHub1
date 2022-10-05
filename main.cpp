@@ -13,6 +13,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 	char preKeys[256] = {0};
 
 	int a = 0;
+	int b = 0;
 	int v = 0;
 	
 	// ウィンドウの×ボタンが押されるまでループ
